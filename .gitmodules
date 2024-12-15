@@ -1,0 +1,8 @@
+[submodule "STM32 app"]
+	path = STM32 app
+	url = https://github.com/krisztinakiraly2/STM32-app.git
+	branch = main
+[submodule "Windows app"]
+	path = Windows app
+	url = https://github.com/krisztinakiraly2/Windows-app.git
+	branch = main
