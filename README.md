@@ -1,1 +1,2 @@
-This GitHub repository showcases my Project Laboratory work, which is connected to my studies at BME.
+This GitHub repository showcases my Project Laboratory work, which is connected to my studies at BME. 
+The main goal of this project is to provide a convenient yet secure way to store passwords. The microcontroller connects via USB and is configured as a USB composite device (HID and COM port communication). Using the Windows application, users can manage their passwords and select which one to be typed in.
